@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Forensic Data
+*.dmp
+*.raw
+*.img
+extracted/
+
+# Security Tools / Wordlists
+rockyou.txt
+
+# Local Configuration
+config.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Binaries (Volatility, etc)
+bin/
